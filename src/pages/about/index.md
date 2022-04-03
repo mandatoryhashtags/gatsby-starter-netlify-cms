@@ -1,19 +1,15 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: Who is "The Fat Guy"
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+![author](/img/curtis-schrum.jpg "Curtis Schrum")
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+#### Curtis "MHT" Schrum
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### My Fat Guy Credentials
+At the time of writing this I weigh 393 pounds or 196.5 kilograms. 28 stone for my UK friends.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+I have been overweight or obese most of my life. Though I did not truly become this large until a work from home stint in 2010-2014. The picture does not show it (amazing, right?). That was one of my many attempts at fitness, you know eating right, lots of fruits & vegetables, brown rice, oatmeal, and everything else. I got down to about 330 pounds but I was so tired and miserable I could not maintain it. 
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+All the while I was a firm believer in the ketogenic lifestyle I just did not do it because, well frankly I have a fondness for chinese food and burritos. 
